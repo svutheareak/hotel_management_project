@@ -1,0 +1,6 @@
+PyQt6
+pillow
+reportlab
+matplotlib
+cryptography
+requests
